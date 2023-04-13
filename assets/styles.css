@@ -440,6 +440,7 @@ body {
 .upgrades__slider .upgrades__item {
     border: 1px solid var(--gallery);
     border-radius: 8px;
+    box-sizing: border-box;
 }
 
 .upgrades__slider .upgrades__media {
@@ -448,7 +449,6 @@ body {
 }
 
 .upgrades__slider .upgrades__img {
-    max-width: 166px;
     width: 100%;
 }
 
