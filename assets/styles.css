@@ -617,6 +617,7 @@ body {
 .product__slider .mySwiper3 .swiper-slide {
     width: 25%;
     border: 2px solid transparent;
+    cursor: grab;
 }
 
 .product__slider .mySwiper3 .swiper-slide-thumb-active {
